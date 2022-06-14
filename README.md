@@ -13,5 +13,5 @@
 - Создает ZIP архив с результатом.
 - Отправляет готовую верстку на FTP сервер.
 
-https://www.youtube.com/watch?v=jU88mLuLWlk
+https://www.youtube.com/watch?v=jU88mLuLWlk <br>
 22.12.2021.
