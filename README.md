@@ -1,5 +1,5 @@
 # gulp-2022
-Сборка Gulp-2022 от Жени Андриканича, автор канала "Фрилансер по жизни". 22.12.2021. https://www.youtube.com/watch?v=jU88mLuLWlk
+Сборка Gulp-2022 от Жени Андриканича, автор канала "Фрилансер по жизни". 22.12.2021. https://www.youtube.com/watch?v=jU88mLuLWlk <br>
 Для запуска сборщика -> npm run dev
 
 - Собирает в один несколько JavaScript файлов с помощью WEBPACK.
